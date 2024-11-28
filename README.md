@@ -1,7 +1,15 @@
 # Exercise Tracker: AI-Powered Gym Reps Counter
 
 ## Overview
-Pose Tracker is a Flask-based web application that uses computer vision to track body movements and count exercise repetitions in real-time. It leverages OpenCV and MediaPipe Pose for accurate pose estimation, providing a seamless experience for fitness enthusiasts, trainers, and developers looking to explore AI-powered workout tracking.
+Exercise Tracker is a Flask-based web application that uses computer vision to track body movements and count exercise repetitions in real-time. It leverages OpenCV and MediaPipe Pose for accurate pose estimation, providing a seamless experience for fitness enthusiasts, trainers, and developers looking to explore AI-powered workout tracking.
+
+<p align="center">
+  <img src="https://github.com/mohyd2233/Exercise-Tracker-Application/blob/main/github_assets/gym-2.jpg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/mohyd2233/Exercise-Tracker-Application/blob/main/github_assets/gym-app-prototype.jpg" />
+</p>
 
 ## Features
 - Real-time Pose Detection: Tracks body landmarks and joint movements using MediaPipe Pose.
